@@ -1,0 +1,4 @@
+repository "Farm Simulator@unity_7B5043E52A78B204E0EC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
